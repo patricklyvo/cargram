@@ -1,4 +1,4 @@
-# Cargram
+# Cargram - currently private development in other repository.
 
 ## Build & Development
 
